@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: Welcome to Petal Place's Page!
 description: Feel free to bookmark this to keep an eye on our updates
+baseurl: "/petalplaceholder"
+url: "http://rainbowcodedev.github.io" 
